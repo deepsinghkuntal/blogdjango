@@ -1,1 +1,2 @@
-# blog-django
+# blog website
+build a website using django
